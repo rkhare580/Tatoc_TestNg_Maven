@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13624" started-at="2018-06-28T12:45:02Z" finished-at="2018-06-28T12:45:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13624" started-at="2018-06-28T12:45:02Z" finished-at="2018-06-28T12:45:16Z">
+      <class name="Tatoc.TatocMaven.TatocMain">
+        <test-method status="PASS" signature="Launch_Tatoc()[pri:0, instance:Tatoc.TatocMaven.TatocMain@26653222]" name="Launch_Tatoc" is-config="true" duration-ms="6970" started-at="2018-06-28T12:45:02Z" finished-at="2018-06-28T12:45:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_Tatoc -->
+        <test-method status="PASS" signature="Verify_BasicCourse_Selection()[pri:1, instance:Tatoc.TatocMaven.TatocMain@26653222]" name="Verify_BasicCourse_Selection" duration-ms="733" started-at="2018-06-28T12:45:09Z" finished-at="2018-06-28T12:45:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_BasicCourse_Selection -->
+        <test-method status="PASS" signature="Verify_GridGate()[pri:2, instance:Tatoc.TatocMaven.TatocMain@26653222]" name="Verify_GridGate" duration-ms="685" started-at="2018-06-28T12:45:10Z" finished-at="2018-06-28T12:45:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_GridGate -->
+        <test-method status="PASS" signature="Verify_FrameDungeon()[pri:3, instance:Tatoc.TatocMaven.TatocMain@26653222]" name="Verify_FrameDungeon" duration-ms="3137" started-at="2018-06-28T12:45:10Z" finished-at="2018-06-28T12:45:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_FrameDungeon -->
+        <test-method status="PASS" signature="Verify_DragNDrop()[pri:4, instance:Tatoc.TatocMaven.TatocMain@26653222]" name="Verify_DragNDrop" duration-ms="249" started-at="2018-06-28T12:45:14Z" finished-at="2018-06-28T12:45:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_DragNDrop -->
+        <test-method status="PASS" signature="Verify_PopupWindow()[pri:5, instance:Tatoc.TatocMaven.TatocMain@26653222]" name="Verify_PopupWindow" duration-ms="1453" started-at="2018-06-28T12:45:14Z" finished-at="2018-06-28T12:45:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_PopupWindow -->
+        <test-method status="PASS" signature="Verify_CookieHandling()[pri:6, instance:Tatoc.TatocMaven.TatocMain@26653222]" name="Verify_CookieHandling" duration-ms="355" started-at="2018-06-28T12:45:15Z" finished-at="2018-06-28T12:45:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Verify_CookieHandling -->
+        <test-method status="PASS" signature="Close_Tatoc()[pri:0, instance:Tatoc.TatocMaven.TatocMain@26653222]" name="Close_Tatoc" is-config="true" duration-ms="0" started-at="2018-06-28T12:45:16Z" finished-at="2018-06-28T12:45:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Close_Tatoc -->
+      </class> <!-- Tatoc.TatocMaven.TatocMain -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
